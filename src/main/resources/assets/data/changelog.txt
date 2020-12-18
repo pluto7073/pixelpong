@@ -1,0 +1,12 @@
+=== PIXELPONG CHANGELOG ===
+
+Version a1.1:
+-Added Custom Resources:
+   -Added Custom Button Textures
+   -Added Custom Colors
+-Added Options Menu
+-Added Ball Trail
+-Added Changelog Menu
+
+Version a1.0:
+-Created PixelPong

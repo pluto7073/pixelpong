@@ -1,0 +1,10 @@
+{
+  "Game": {
+    "Ball": "-1",
+    "Paddle": "-1"
+  },
+  "Menu": {
+    "Background": "-15724528",
+    "Text": "-1"
+  }
+}
